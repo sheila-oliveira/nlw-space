@@ -17,7 +17,7 @@ Projeto web responsivo de uma càpsula do tempo para exibir memórias sobre meus
  - --
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com as seguintes tecnologias
 
 - HTML e CSS
 - Git e Github
